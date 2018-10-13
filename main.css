@@ -1,0 +1,10 @@
+.container{
+  max-width: 50%;
+}
+
+.banner{
+  background-color: black;
+  color: lightcyan;
+  height: 2em;
+  font-weight: 900;
+}
